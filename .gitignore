@@ -1,0 +1,5 @@
+results/
+*.html
+*.xml
+__pycache__/
+*.pyc
